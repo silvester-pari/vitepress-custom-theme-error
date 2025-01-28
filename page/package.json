@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "dependencies": {
+    "my-theme": "file:./my-theme-0.0.0.tgz",
+    "vitepress": "^1.6.3"
+  }
+}
